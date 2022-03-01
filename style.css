@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 500px;
+  background-color: #EFFFFD;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.abdusattor{
+  margin-top: 250px;
+}
+.container {
+}
+
+#inputField {
+  width: 300px;
+  height: 46px;
+  border-width: 0;
+  border: 1px solid #85F4FF;
+  outline: none;
+  font-size: 25px;
+  vertical-align: middle;
+  padding-left: 8px;
+}
+
+#addToDo {
+  height: 50px;
+  width: 50px;
+  border: 1px solid #B8FFF9;
+  vertical-align: middle;
+  font-size: 30px;
+  background-color: #90E0EF;
+}
+
+.paragraph-styling {
+  margin: 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.to-dos {
+  margin-top: 25px;
+}
+h1{
+  color: #FF1818;
+}
